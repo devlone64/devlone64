@@ -1,16 +1,6 @@
-## Hi there 👋
-
-<!--
-**devlone64/devlone64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 론64 (lone64)
+안녕하세요. 저는 마인크래프트에서 플러그인을 개발하는 개발자입니다.<br>
+마인크래프트 플러그인 개발은 대략 `2019년`부터 시작했습니다.<br>
+주로 사용하는 언어는 `Java`입니다. 그 외에도 `Python`를 사용하기도 합니다.<br>
+해당 깃허브 페이지에는 포트폴리오용으로 가끔씩 플러그인들을 업로드할 예정입니다.<br>
+해당 깃허브 페이지에 있는 플러그인 소스코드(제가 직접 개발한 플러그인)들은 모두 `MIT LICENSE`가 적용됩니다.
